@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# Savia Stellar Nexus
 
-## Project info
+## Overview
 
 **URL**: https://lovable.dev/projects/de1f7414-8489-42e9-90a1-f14fd6c9494d
 
@@ -18,7 +18,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 Follow these steps:
 
@@ -54,11 +54,14 @@ npm run dev
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite**: A fast build tool for modern web projects.
+- **TypeScript**: A superset of JavaScript that adds static typing.
+- **React**: A JavaScript library for building user interfaces.
+- **shadcn-ui**: A collection of reusable components built with Radix UI and Tailwind CSS.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+
+For the smart contract implementation, refer to the Savia contract repository:
+- **Savia Contract**: https://github.com/FernandoMay/savia
 
 ## How can I deploy this project?
 
